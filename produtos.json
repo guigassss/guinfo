@@ -1,0 +1,14 @@
+[
+  {"id":1,"nome":"Mouse Pad 40X30","descricao":"Mouse pad speed.","preco":79.90,"categoria":"Acessorios","imagem":"imagem/mousepad.png"},
+  {"id":2,"nome":"Fone sem Fio Preto","descricao":"Fone de ouvido preto sem fio.","preco":199.90,"categoria":"Audio","imagem":"imagem/fone.png"},
+  {"id":3,"nome":"Headset Gamer Preto e Vermelho","descricao":"Headset com microfone integrado.","preco":139.90,"categoria":"Audio","imagem":"imagem/fone2.png"},
+  {"id":4,"nome":"Fone com fio Preto","descricao":"Fone de ouvido com fio.","preco":139.90,"categoria":"Audio","imagem":"imagem/fone3.png"},
+  {"id":5,"nome":"Fone com Fio Gamer","descricao":"Fone de ouvido gamer com fio.","preco":139.90,"categoria":"Audio","imagem":"imagem/fone4.png"},
+  {"id":6,"nome":"Microfone RGB com Suporte","descricao":"Microfone preto com iluminação RGB.","preco":149.00,"categoria":"Microfones","imagem":"imagem/microfone.png"},
+  {"id":7,"nome":"Microfone Branco","descricao":"Microfone branco com suporte de mesa.","preco":149.00,"categoria":"Microfones","imagem":"imagem/microfone2.png"},
+  {"id":8,"nome":"Microfone Preto Compacto","descricao":"Microfone preto com suporte de mesa.","preco":149.00,"categoria":"Microfones","imagem":"imagem/microfone3.png"},
+  {"id":9,"nome":"Microfone Branco e Preto RGB","descricao":"Microfone de mesa com iluminação RGB.","preco":149.00,"categoria":"Microfones","imagem":"imagem/microfone4.png"},
+  {"id":10,"nome":"Mouse Gamer Branco","descricao":"Mouse gamer branco com base iluminada.","preco":149.90,"categoria":"Mouses","imagem":"imagem/mouse-gamer-branco.png"},
+  {"id":11,"nome":"Mouse Gamer Preto","descricao":"Mouse gamer preto.","preco":169.90,"categoria":"Mouses","imagem":"imagem/mouse-gamer-preto.png"},
+  {"id":12,"nome":"Mouse Gamer Vermelho","descricao":"Mouse gamer vermelho com base iluminada.","preco":159.90,"categoria":"Mouses","imagem":"imagem/mouse-gamer-vermelho.png"}
+]
